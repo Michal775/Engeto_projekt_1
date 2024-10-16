@@ -114,3 +114,4 @@ for delka, pocet in delky_slov.items():
     print(f"{delka:>3}|{'*' * pocet:<20}|{pocet:<2}")   # Grafické znázornění délek slov
     
 print(oddelovaci_cara)
+input("Press Enter to exti...") # Ukončení programu
